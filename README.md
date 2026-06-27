@@ -11,7 +11,7 @@ This is a practice project built with **Django** and **SQLite** that implements 
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/samwise43/django_flashcards)
    ```
 
 2. Navigate to the project directory:
